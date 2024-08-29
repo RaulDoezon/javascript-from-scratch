@@ -34,12 +34,12 @@ do {
 // for of
 myArray = [1, 2, 3, 4];
 
-mySet = new Set(["Brais", "Moure", "mouredev", 37, true, "braismoure@mouredev.com"]);
+mySet = new Set(["Raúl", "Dóezon", "rauldoezn", 37, true, "rauldoezon@mail.mx"]);
 
 myMap = new Map([
-  ["name", "Brais"],
-  ["email", "braismoure@mouredev.com"],
-  ["age", 37],
+  ["name", "Raúl"],
+  ["email", "rauldoezon@mail.mx"],
+  ["age", 32],
 ]);
 
 myString = "¡Hola, JavaScript!";
