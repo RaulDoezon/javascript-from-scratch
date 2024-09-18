@@ -15,23 +15,23 @@ console.info("Este es un mensaje de información adicional.");
 
 // table
 let data = [
-  ["Brais", 37],
-  ["Sara", 21],
+  ["Raúl", 32],
+  ["Ana", 34],
 ];
 
 console.table(data);
 
 data = [
-  { name: "Brais", age: 37 },
-  { name: "Sara", age: 21 },
+  { name: "Raúl", age: 32 },
+  { name: "Ana", age: 34 },
 ];
 
 console.table(data);
 
 // group
 console.group("Usuario:");
-console.log("Nombre: Brais");
-console.log("Edad: 37");
+console.log("Nombre: Raúl");
+console.log("Edad: 32");
 console.groupEnd();
 
 // time
